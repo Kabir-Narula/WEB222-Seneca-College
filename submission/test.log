@@ -1,0 +1,19 @@
+
+> web222-assignment-2@6.0.0 test
+> jest --
+
+PASS src/problem-00.test.js
+PASS src/problem-08.test.js
+PASS src/problem-07.test.js
+PASS src/problem-01.test.js
+PASS src/problem-04.test.js
+PASS src/problem-05.test.js
+PASS src/problem-03.test.js
+PASS src/problem-02.test.js
+PASS src/problem-06.test.js
+
+Test Suites: 9 passed, 9 total
+Tests:       82 passed, 82 total
+Snapshots:   0 total
+Time:        5.853 s
+Ran all test suites.
