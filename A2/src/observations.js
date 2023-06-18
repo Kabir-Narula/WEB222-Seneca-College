@@ -5,13 +5,7 @@
  * Seneca Academic Policy. No part of this assignment has been
  * copied manually or electronically from any other source
  * (including web sites) or distributed to other students.
- *
- * Please update the following with your information:
- *
- *      Name: kabir narula
- *      Student ID: 127962223
- *      Date: June 18th 2023
- *
+ 
  * Please see all unit tests in the files problem-01.test.js, problem-02.test.js, etc.
  */
 
