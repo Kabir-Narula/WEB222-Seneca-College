@@ -1,10 +1,3 @@
-/* Declaration:
-I declare that this test is my own work in accordance with Seneca Academic Policy. No part of this
-assignment has been copied manually or electronically from anybody else or distributed to other
-students. 
-Name: Xuan Khang Huynh (Cris Huynh) 
-Student ID: 105444228
- */
 
 // TEST1.JS
 
@@ -36,7 +29,7 @@ function calcPay(number, price, province, discount = 0)
     var taxAmount = totalAmount * tax / 100;
     var payment = totalAmount + taxAmount;
   
-    console.log("===== Cris's Shop =====");
+    console.log("===== Levi's Shop =====");
 
     if (discount > 0) 
     {
