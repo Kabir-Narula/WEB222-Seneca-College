@@ -9,7 +9,7 @@ Hey there! Welcome to my Web Programming Assignments repository! As a college st
  Assignment 04: 8.75/10                                                                                                                                                   
  Assignment 05: 9/10                                                                                                                                                  
  Assognment 06:  /10                                                                                                                                                   
-Tests-
+ Tests-
 
 Test 01: 10/10                                                                                                                                                  
 Test 02: 10/10                                                                                                                                                  
