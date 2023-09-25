@@ -30,7 +30,7 @@ The assignments in this repository involve a range of technologies and tools, in
 - Bootstrap
 - Node.js
 
-  ## Disclaimer
+ ## Disclaimer
 
 I would like to clarify that the content shared in this repository is intended solely for educational and informational purposes. The code, assignments, and project milestones posted here are a representation of my individual work accomplished during my C++ Workshop course. While I encourage fellow students to harness this repository for inspiration and learning, it's pivotal to uphold academic integrity and ethical conduct.
 
