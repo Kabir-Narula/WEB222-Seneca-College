@@ -2,6 +2,25 @@
 
 Welcome to the Web Programming Assignments repository! This public repository contains a collection of web programming assignments completed during my coursework. These assignments cover various aspects of front-end and back-end web development and serve as a resource for students looking to enhance their web programming skills.
 
+
+## Assignment Scores 📊
+
+Here's an overview of the scores achieved on each assignment:
+
+- **Assignment 01**: 10/10
+- **Assignment 02**: 9/10
+- **Assignment 03**: 9.5/10
+- **Assignment 04**: 8/10
+- **Assignment 05**: 10/10
+
+## Online Tests 📝
+
+In addition to assignments, I also performed well in online tests related to web programming:
+
+- **Test 01**: 95%
+- **Test 02**: 98%
+- **Test 03**: 100%
+
 ## 🗣️ Open for Discussions
 
 Welcome to the Discussions section of our repository! We're excited to hear from you, answer your questions, and engage in meaningful conversations about JavaScript, HTML, and front-end development. This space is for the community, and we encourage your active participation.
@@ -24,33 +43,6 @@ Feel free to use Discussions for:
 
 - **Feedback and Suggestions**: Have suggestions for improving our repository or community? We're all ears!
 
-## Assignment Scores 📊
-
-Here's an overview of the scores achieved on each assignment:
-
-- **Assignment 01**: 10/10
-- **Assignment 02**: 9/10
-- **Assignment 03**: 9.5/10
-- **Assignment 04**: 8/10
-- **Assignment 05**: 10/10
-
-## Online Tests 📝
-
-In addition to assignments, I also performed well in online tests related to web programming:
-
-- **Test 01**: 95%
-- **Test 02**: 98%
-- **Test 03**: 100%
-
-## Technologies Used 💻
-
-The assignments in this repository involve a range of technologies and tools, including:
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Node.js
 
 ## Disclaimer ⚠️
 
