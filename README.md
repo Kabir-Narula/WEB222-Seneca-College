@@ -35,8 +35,8 @@ The assignments in this repository involve a range of technologies and tools, in
 
 If you have any questions, encounter issues with the assignments, or need assistance with web programming concepts, please feel free to reach out. I'm here to help! You can contact me through the following channels:
 
-- **Email**: [Your Email Address]
-- **Discord**: [Your Discord Username]
+- **Email**: kabirnar10@gmail.com
+- **Discord**: leviackerman0931
 
 Your success in web programming is important to me, and I'm committed to supporting your learning journey. Happy coding!
 
