@@ -25,11 +25,6 @@ Feel free to use Discussions for:
 
 - **Feedback and Suggestions**: Have suggestions for improving our repository or community? We're all ears!
 
-### Be Open and Respectful
-
-We value respectful and open-minded discussions. Please be courteous to your fellow community members, and remember that this is a space for learning and growth.
-
-Let's make the most of this space, ask questions, share knowledge, and build a thriving web development community together. I'll be actively monitoring Discussions and responding as promptly as possible.
 
 ## Assignment Scores
 
