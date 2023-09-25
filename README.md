@@ -29,7 +29,16 @@ The assignments in this repository involve a range of technologies and tools, in
 - JavaScript
 - Bootstrap
 - Node.js
-  
+
+  ## Disclaimer
+
+I would like to clarify that the content shared in this repository is intended solely for educational and informational purposes. The code, assignments, and project milestones posted here are a representation of my individual work accomplished during my C++ Workshop course. While I encourage fellow students to harness this repository for inspiration and learning, it's pivotal to uphold academic integrity and ethical conduct.
+
+**Copying, reproducing, or submitting code from this repository as your own for academic assignments is a breach of academic integrity**. It's indispensable to grasp the concepts, principles, and coding techniques provided here and to apply them autonomously to your own work.
+
+Utilizing this repository as a reference is laudable, but direct replication sans authentic comprehension not only undermines your learning journey but also compromises the very essence of education and progress. Proper attribution and acknowledgment are paramount should you opt to incorporate any concepts or ideas from this repository into your projects or assignments.
+
+By accessing and utilizing the content within this repository, you affirm that you comprehend the significance of academic integrity ([Academic Integrity Policy](https://www.senecacollege.ca/about/policies/academic-integrity-policy.html)) and that you'll use this material prudently to enrich your learning voyage.
 
 ## Getting Help
 
@@ -39,5 +48,3 @@ If you have any questions, encounter issues with the assignments, or need assist
 - **Discord**: leviackerman0931
 
 Your success in web programming is important to me, and I'm committed to supporting your learning journey. Happy coding!
-
-**Disclaimer**: This repository is intended for educational purposes. While it's encouraged to use this as a learning resource, please ensure that you maintain academic integrity and adhere to your institution's policies regarding assignments and code usage.
