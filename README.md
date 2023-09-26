@@ -46,7 +46,7 @@ Feel free to use Discussions for:
 
 ## Disclaimer ⚠️
 
-I would like to clarify that the content shared in this repository is intended solely for educational and informational purposes. The code, assignments, and project milestones posted here are a representation of my individual work accomplished during my C++ Workshop course. While I encourage fellow students to harness this repository for inspiration and learning, it's pivotal to uphold academic integrity and ethical conduct.
+I would like to clarify that the content shared in this repository is intended solely for educational and informational purposes. The code, assignments, and project milestones posted here are a representation of my individual work accomplished during my  course. While I encourage fellow students to harness this repository for inspiration and learning, it's pivotal to uphold academic integrity and ethical conduct.
 
 **Copying, reproducing, or submitting code from this repository as your own for academic assignments is a breach of academic integrity**. It's indispensable to grasp the concepts, principles, and coding techniques provided here and to apply them autonomously to your own work.
 
