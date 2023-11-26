@@ -7,11 +7,7 @@
   copied manually or electronically from any other source
   (including web sites) or distributed to other students.
 
-  Please update the following with your information:
-
-  Name:       Kabir Narula 
-  Student ID: 127962223
-  Date:       27 July 2023
+ 
  
 ********* */
 
