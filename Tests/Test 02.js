@@ -1,6 +1,6 @@
 /*Declaration:I declare that this test is my own work in accordance with Seneca Academic Policy.
  No part of thisassignment has been copied manually or electronically from anybody else or distributed to otherstudents. 
- Name: Kabir Narula Student ID: 127962223 */
+  */
 
 
 // These are the array of 4 customers
